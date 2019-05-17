@@ -1,1 +1,1 @@
-Lista 3 alg
+Repositório DCA0800/ Terceira Lista de Algoritmos E Lógica de Programação
